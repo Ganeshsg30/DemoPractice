@@ -5,6 +5,7 @@
     <classes>
       <class name="com.demo.practiceTest.TestNgPracticeTest"/>
       <class name="com.demo.practiceTest.TestNGAssertTest"/>
+      <class name="com.demo.practiceTest.DemoBrowserTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
