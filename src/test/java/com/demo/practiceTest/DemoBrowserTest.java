@@ -3,7 +3,6 @@ package com.demo.practiceTest;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 
-Hiii
 public class DemoBrowserTest 
 {
 	@Test
