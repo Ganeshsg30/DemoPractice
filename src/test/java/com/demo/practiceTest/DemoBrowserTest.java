@@ -9,6 +9,6 @@ public class DemoBrowserTest
 	public static void main(String[] args) 
 	{
 		String browser = System.getProperty("BROWSER");
-		System.out.println(browser);
+		System.out.println("browser");
 	}
 }
