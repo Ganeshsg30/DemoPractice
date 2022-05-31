@@ -46,7 +46,7 @@
 
 	<profiles>
 		<profile>
-			<id>regression</id>
+			<id>browser</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -55,7 +55,7 @@
 						<version>3.0.0-M6</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testng.xml</suiteXmlFile>
+								<suiteXmlFile>testngbrowser.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
